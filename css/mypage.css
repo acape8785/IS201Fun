@@ -1,0 +1,96 @@
+.backgroundimage {
+    background-image: url('https://wallpaperaccess.com/full/4997085.jpg');
+    background-size: 1600px;
+    background-color: rgb(2, 2, 41);
+}
+div {
+    position: absolute;
+}
+.font {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: x-large;
+}
+.header {
+    top: 5px;
+    height: 100px;
+    left: 5px;
+    right: 5px;
+}
+.subheaderright {
+    float: right;
+    padding: 8px;
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+.subheaderleft {
+    float: left;
+    padding: 8px;
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+.leftmenu {
+    left: 100px;
+    top: 200px;
+}
+.rightmenu {
+    right: 100px;
+    top: 575px;
+}
+.leftmenu1 {
+    left: 100px;
+    top: 1025px;
+}
+.rightmenu1 {
+    right: 100px;
+    top: 1450px;
+}
+.centertableau {
+    top: 1900px;
+}
+.bodytext1 {
+    right: 150px;
+    top: 175px;
+}
+.bodytext2 {
+    left: 90px;
+    top: 625px;
+}
+.bodytext3 {
+    right: 175px;
+    top: 1070px;
+}
+.bodytext4 {
+    left: 150px;
+    top: 1500px;
+    width: 400px;
+    text-align: center;
+}
+a:visited {color: white;}
+.headertitle {
+    top: 60px;
+    right: 500px;
+    font-size: large;
+    color: white;
+    padding: 5px
+}
+.border {
+    border: white 5px dotted;
+}
+img {
+    width: 500px;
+    border: dotted white 5px;
+    padding: 5px;
+}
+.tableausize {
+    width: 100px;
+    height: 10px;
+}
+.h4 {
+    text-align: center;
+    text-decoration: underline;
+}

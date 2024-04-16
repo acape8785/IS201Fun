@@ -1,0 +1,13 @@
+.fontcolor {
+    color: rgb(20, 20, 78);
+}
+.justify {
+    text-align: justify;
+}
+.bold {
+    font-weight: bold;
+}
+img {
+    float: right;
+    height: 200px;
+}
